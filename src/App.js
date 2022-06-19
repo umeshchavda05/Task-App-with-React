@@ -8,6 +8,9 @@ function App() {
   return (
     <div className='todo-app'>
       <TodoList />
+      <br />
+      <br />
+      <p>Coded by <a href="https://github.com/umeshchavda05">uc</a></p>
     </div>
   );
 }
