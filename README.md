@@ -3,7 +3,7 @@ This is a simple To Do app made using React.
 
 ## Screenshot
 
-![](./src/images/screenshot.png)
+![](./src/screenshot.png)
 
 ## Links
 
